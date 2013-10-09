@@ -1,2 +1,2 @@
-bower-handlebars
+bower-handlebars-runtime
 ================
