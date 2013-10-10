@@ -1,6 +1,6 @@
 {
   "name": "bower-handlebars-runtime",
-  "description": "Taken from http://builds.handlebarsjs.com.s3.amazonaws.com/index.html (2013-10-04T15:41:23.000Z)",
+  "description": "Taken from dist/handlebars.runtime.js from https://github.com/components/handlebars.js at tag v1.0.12",
   "version": "0.0.0",
   "homepage": "https://github.com/sebastianseilund/bower-handlebars-runtime",
   "authors": [
